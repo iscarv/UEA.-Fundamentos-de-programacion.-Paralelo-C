@@ -1,5 +1,5 @@
 # UEA.-Fundamentos-de-programacion.-Paralelo-C
-Repositorio de código fuente utilizado en la asignatura de Fundamentos de Programación.                                                                                                                                     
+**Repositorio de código fuente utilizado en la asignatura de Fundamentos de Programación.**                                                                                                                                  
 
 **Institución:** Universidad Estatal Amazónica.  
 
