@@ -6,3 +6,4 @@
 **Carrera:** Ingeniería en Tecnologías de la Información. 
 
 **Docente:** Mgs. Lenin Patricio Ochoa Carrión.
+**Nombre:** Isca Madaí Ortiz Sabando.
