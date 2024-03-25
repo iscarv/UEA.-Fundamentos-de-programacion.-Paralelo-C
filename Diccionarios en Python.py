@@ -9,4 +9,5 @@ if "teléfono" not in informacion_personal:
     informacion_personal["teléfono"] = "2456789100"
 # Eliminar la clave "edad" del diccionario
 del(informacion_personal["edad"])
+# Imprimir el diccionario actualizado
 print(informacion_personal)
