@@ -2,9 +2,9 @@
 with open("my_notes.txt", "w") as archivo:
 # Escribe al menos tres líneas de notas personales en el archivo.
      archivo.write("Notas personales:\n")
-     archivo.write("1. Terminar el proyecto de Inglés.\n")
+     archivo.write("1. Terminar el proyecto de ciencias naturales.\n")
      archivo.write("2. Arreglar mi cuarto.\n")
-     archivo.write("3. Correguir la tarea de matemáticas.\n")
+     archivo.write("3. Correguir la tarea de lenguaje.\n")
 
 # 2. Lectura de Archivo de Texto:
 archivo = open("my_notes.txt", "r")
